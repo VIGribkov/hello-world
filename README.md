@@ -5,5 +5,7 @@ I'm new to github, I'm not a wizard - I'm just learning.
 
     Thus, all projects must be directed towards this goal, otherwise, this activity is empty, transitory. Everything that does not develop society destroys it.
     
+    I would like to understand how mathematics and computer science can serve this noble purpose, to what extent such activities are already present in the world.
+    
  01.04.2021
  VIGribkov
